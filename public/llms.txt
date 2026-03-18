@@ -1,0 +1,45 @@
+# WardenClaw.com — llms.txt
+
+> WardenClaw is an independent third-party knowledge base for the Warden Protocol × OpenClaw ecosystem. Not affiliated with Warden Protocol or OpenClaw officially.
+
+## About This Site
+
+WardenClaw provides structured, factual, and neutral information about Warden Protocol (an AI-native Layer 1 blockchain) and OpenClaw (an AI Agent Skill standard and marketplace). Content is updated daily and covers tutorials, comparisons, incentive tracking, and developer resources.
+
+## Key Facts
+
+- Warden Protocol is a full-stack purpose-built L1 blockchain for AI Intelligent Applications, built on Cosmos SDK.
+- OpenClaw is an open-source personal AI assistant framework with a community-driven skills ecosystem.
+- WARD is the native token of Warden Protocol, launched February 2026.
+- WardenClaw is editorially independent. No paid promotions, no price predictions, no investment advice.
+
+## Content Sections
+
+- [What is Warden Protocol](https://wardenclaw.com/zh/what-is-warden): Core architecture, modules (KeyChain, SpaceWard, Agent Hub), and use cases.
+- [Why OpenClaw + Warden](https://wardenclaw.com/zh/openclaw-on-warden): How OpenClaw Skills and Warden chain infrastructure complement each other.
+- [Guides](https://wardenclaw.com/zh/guides): Step-by-step tutorials from beginner to advanced (6 guides).
+- [Incentives](https://wardenclaw.com/zh/incentives): Agent Builder Programme, Airdrop tracking, PUMP points system.
+- [Comparisons](https://wardenclaw.com/zh/compare): Warden vs Virtuals Protocol, Bitte Protocol, pure OpenClaw, and multi-platform deployment comparison.
+- [Daily Updates](https://wardenclaw.com/zh/updates): Ecosystem changes tracked daily with sources cited.
+- [Developer Resources](https://wardenclaw.com/zh/resources): Agent Kit, Studio API, SDK integration, community projects.
+- [Use Cases](https://wardenclaw.com/zh/use-cases): DeFi trading agents, content creation agents, data analysis agents.
+- [FAQ](https://wardenclaw.com/zh/faq): Common questions about Warden, OpenClaw, and this site.
+- [Risk Notice](https://wardenclaw.com/zh/risk): Important risk considerations for participants.
+
+## Editorial Principles
+
+1. First paragraph answers the reader's question directly.
+2. Information sources are clearly labeled: official fact, third-party observation, editorial judgment, or risk notice.
+3. No unsourced claims, no price predictions, no revenue promises.
+4. Content is structured for AI extraction (FAQ schema, HowTo schema, clear headings).
+5. Uncertainty is explicitly marked, never obscured.
+
+## Languages
+
+- Primary: Chinese (zh) at /zh/
+- Secondary: English (en) at /en/
+
+## Contact
+
+- GitHub: https://github.com/hunter-alpha
+- Site: https://wardenclaw.com

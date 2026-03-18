@@ -70,7 +70,7 @@ export default function Footer({ locale }: FooterProps) {
                 </a>
               </li>
               <li>
-                <a href="https://github.com/AgiClaw" target="_blank" rel="noopener noreferrer" className="text-sm text-ink-500 hover:text-warden-600 transition-colors dark:text-ink-400">
+                <a href="https://github.com/hunter-alpha" target="_blank" rel="noopener noreferrer" className="text-sm text-ink-500 hover:text-warden-600 transition-colors dark:text-ink-400">
                   GitHub
                 </a>
               </li>

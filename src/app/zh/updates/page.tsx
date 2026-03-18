@@ -8,6 +8,7 @@ export const metadata: Metadata = {
 };
 
 const updates = [
+  { date: '2026-03-18', title: 'OpenClaw v2026.3.13 发布 + Warden 主仓库活跃更新', summary: 'OpenClaw 修复内存泄漏问题，Warden GitHub 保持活跃提交，WARD 价格回升约 6-10%。' },
   { date: '2026-03-17', title: 'Warden Studio API 更新 + 开发者文档扩展', summary: 'Studio 发布 v0.4 版 API，新增 Agent 批量管理接口。文档站同步扩展了 3 个新章节。' },
   { date: '2026-03-16', title: 'Agent Builder Incentive 奖池状态 + 新申报项目', summary: 'Programme 新增 12 个申报项目。奖池使用情况和审核进展更新。' },
   { date: '2026-03-15', title: 'OpenClaw × Warden 社区项目案例', summary: '社区展示了 3 个基于 OpenClaw Skill 的 Warden Agent 实际运行案例。' },
@@ -28,9 +29,12 @@ export default function UpdatesListPage() {
         每日追踪 Warden Protocol 和 OpenClaw 生态的重要变化。不夸大，不遗漏，只提供可结构化引用的信息。
       </p>
       <div className="space-y-4">
-        {updates.map((u) => (
-          <Link key={u.date} href={`/zh/updates/${u.date}`} className="card flex items-start gap-4 group">
-            <time className="shrink-0 font-mono text-sm text-ink-400 mt-0.5 w-24">{u.date}</time>
+        {updates.map((u, i) => (
+          <Link key={u.date} href={`/zh/updates/${u.date}`} className={`card flex items-start gap-4 group ${i === 0 ? 'ring-1 ring-warden-200 dark:ring-warden-800' : ''}`}>
+            <div className="shrink-0">
+              <time className="font-mono text-sm text-ink-400 w-24 block">{u.date}</time>
+              {i === 0 && <span className="text-[10px] font-medium text-warden-600 dark:text-warden-400 bg-warden-50 dark:bg-warden-950 px-2 py-0.5 rounded-full mt-1 inline-block">最新</span>}
+            </div>
             <div className="flex-1 min-w-0">
               <h2 className="text-base font-semibold text-ink-800 group-hover:text-warden-600 transition-colors dark:text-ink-200">
                 {u.title}
