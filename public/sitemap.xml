@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://wardenclaw.com/zh</loc>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://wardenclaw.com/zh"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://wardenclaw.com/en"/>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url><loc>https://wardenclaw.com/en</loc><changefreq>daily</changefreq><priority>1.0</priority></url>
+  <url><loc>https://wardenclaw.com/zh/what-is-warden</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://wardenclaw.com/zh/openclaw-on-warden</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://wardenclaw.com/zh/guides</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://wardenclaw.com/zh/guides/getting-started</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://wardenclaw.com/zh/guides/warden-studio-5min</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://wardenclaw.com/zh/guides/deploy-openclaw-to-warden</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://wardenclaw.com/zh/guides/deploy-agent</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://wardenclaw.com/zh/guides/understanding-agent-hub</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://wardenclaw.com/zh/guides/wallet-setup</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://wardenclaw.com/zh/guides/troubleshooting</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://wardenclaw.com/zh/incentives</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://wardenclaw.com/zh/incentives/agent-builder-programme</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://wardenclaw.com/zh/incentives/warden-airdrop</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://wardenclaw.com/zh/incentives/openclaw-incentives-tracker</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://wardenclaw.com/zh/incentives/studio-rewards</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://wardenclaw.com/zh/incentives/faq</loc><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://wardenclaw.com/zh/compare</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://wardenclaw.com/zh/compare/warden-vs-pure-openclaw</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://wardenclaw.com/zh/compare/warden-vs-virtuals</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://wardenclaw.com/zh/compare/warden-vs-bitte</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://wardenclaw.com/zh/compare/onchain-deployment-comparison</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://wardenclaw.com/zh/updates</loc><changefreq>daily</changefreq><priority>0.9</priority></url>
+  <url><loc>https://wardenclaw.com/zh/updates/2026-03-17</loc><lastmod>2026-03-17</lastmod><changefreq>never</changefreq><priority>0.6</priority></url>
+  <url><loc>https://wardenclaw.com/zh/updates/2026-03-16</loc><lastmod>2026-03-16</lastmod><changefreq>never</changefreq><priority>0.6</priority></url>
+  <url><loc>https://wardenclaw.com/zh/updates/2026-03-15</loc><lastmod>2026-03-15</lastmod><changefreq>never</changefreq><priority>0.6</priority></url>
+  <url><loc>https://wardenclaw.com/zh/updates/2026-03-14</loc><lastmod>2026-03-14</lastmod><changefreq>never</changefreq><priority>0.6</priority></url>
+  <url><loc>https://wardenclaw.com/zh/updates/2026-03-13</loc><lastmod>2026-03-13</lastmod><changefreq>never</changefreq><priority>0.6</priority></url>
+  <url><loc>https://wardenclaw.com/zh/updates/2026-03-12</loc><lastmod>2026-03-12</lastmod><changefreq>never</changefreq><priority>0.6</priority></url>
+  <url><loc>https://wardenclaw.com/zh/updates/2026-03-11</loc><lastmod>2026-03-11</lastmod><changefreq>never</changefreq><priority>0.6</priority></url>
+  <url><loc>https://wardenclaw.com/zh/resources</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://wardenclaw.com/zh/resources/agent-kit-quickstart</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://wardenclaw.com/zh/resources/studio-api</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://wardenclaw.com/zh/resources/sdk-integration</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://wardenclaw.com/zh/resources/community-agents</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://wardenclaw.com/zh/use-cases</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://wardenclaw.com/zh/use-cases/defi-trading-agent</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://wardenclaw.com/zh/use-cases/content-creation-agent</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://wardenclaw.com/zh/use-cases/data-analysis-agent</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://wardenclaw.com/zh/faq</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://wardenclaw.com/zh/about</loc><changefreq>monthly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://wardenclaw.com/zh/risk</loc><changefreq>monthly</changefreq><priority>0.5</priority></url>
+</urlset>
